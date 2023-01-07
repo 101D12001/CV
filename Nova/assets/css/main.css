@@ -19,8 +19,10 @@
 /* Colors */
 :root {
   --color-default: #2b180d;
-  --color-primary: #56b8e6;
-  --color-secondary: #1b2f45;
+  --color-primary: #666161;
+  ;
+  --color-secondary:#2b180d;
+;
 }
 
 /* Smooth scroll behavior */
@@ -255,7 +257,7 @@ section {
 }
 
 .header.sticked {
-  background: rgba(27, 47, 69, 0.9);
+  background:  #ac98dbcf;
   padding: 12px 0;
 }
 
@@ -612,11 +614,6 @@ section {
 --------------------------------------------------------------*/
 .why-us {
   padding-bottom: 0;
-}
-
-.why-us .img-bg {
-  min-height: 500px;
-  background-size: cover;
 }
 
 .why-us .slides {
